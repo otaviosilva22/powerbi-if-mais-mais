@@ -1,5 +1,5 @@
 # Apresentação de Dados com Power BI
-### Minicurso apresentado durante o evento IF++ do Instituto Federal de Educação do Sul de Minas Gerais.
+### Minicurso apresentado durante o evento IF++ do Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais.
 
 ## Tecnologias Utilizadas
 - [Power BI](https://powerbi.microsoft.com/pt-br/desktop/)
