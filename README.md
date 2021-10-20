@@ -1,26 +1,16 @@
 # Apresentação de Dados com Power BI
-### Minicurso apresentado durante o evento IF++ do Instituto Federal de Educação do Sul de Minas Gerais.
-
-</br>
+### Minicurso apresentado durante o evento IF++ do Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais.
 
 ## Tecnologias Utilizadas
 - [Power BI](https://powerbi.microsoft.com/pt-br/desktop/)
-
-</br>
-
 
 ## IF++
 
 ### O <a href="https://ifmaismais.netlify.app/"> IF++ </a> é um encontro relacionado a tecnologia organizado diretamente por professores e alunos do IFSULDEMINAS, no qual reúnem minicursos e palestras para compartilhar conhecimentos e experiências. O minicurso em questão faz referência à uma introdução a ferramenta Power BI e foi apresentado no dia 20 de outubro de 2021.
 
-</br>
-
-
 ## Instalação do Power BI Desktop
 
 ### A versão Desktop é gratuíta e pode ser baixada clicando <a href='https://powerbi.microsoft.com/pt-br/desktop/'>aqui</a>.
-
-</br>
 
 ## Datasets
 
@@ -29,13 +19,9 @@
 ./datasets
 ~~~
 
-</br>
-
 ## Exemplo dashboard
 
 <img src='./images/exemplo_dash.png'>
-
-</br>
 
 ## Autores
 
