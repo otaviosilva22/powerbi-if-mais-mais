@@ -1,0 +1,47 @@
+estado_loja, produto, valor, data, funcionario_id
+São Paulo, geladeira, R$1000,00, 21/07/2021, 1  
+, geladeira, R$1000,00, 07/07/2021, 1
+, freezer, R$2000,00, 07/07/2021, 1
+, fogão, R$2300,00, 07/07/2021, 1
+, micro-ondas, R$4000,00, 21/07/2021, 1
+, liquidificador, R$4500,00, 21/07/2021, 1
+, batedeira, R$6000,00, 21/07/2021, 1
+, torradeira, R$4000,00, 08/07/2021, 1
+, geladeira, R$2000,00, 08/08/2021, 2
+, fogão, R$1000,00, 10/08/2021, 2
+, panela, R$1000,00, 10/09/2021, 2
+, geladeira, R$1000,00, 10/09/2021, 2
+Rio de Janeiro, geladeira, R$1000,00, 21/07/2021, 3  
+, geladeira, R$1000,00, 07/07/2021, 3
+, freezer, R$2000,00, 07/07/2021, 3
+, fogão, R$2300,00, 07/07/2021, 4
+, micro-ondas, R$4000,00, 21/07/2021, 4
+, liquidificador, R$4500,00, 21/07/2021, 4
+, batedeira, R$6000,00, 21/08/2021, 4
+, batedeira, R$20000,00, 21/09/2021, 4
+Minas Gerais, geladeira, R$2000,00, 08/08/2021, 3
+, fogão, R$1000,00, 10/08/2021, 5
+, panela, R$1000,00, 10/09/2021, 5
+, geladeira, R$3000,00, 10/09/2021, 5
+, geladeira, R$1000,00, 21/07/2021, 5  
+, geladeira, R$1000,00, 07/07/2021, 5
+, freezer, R$2000,00, 07/07/2021, 5
+, fogão, R$2300,00, 07/07/2021, 6
+, micro-ondas, R$4000,00, 21/07/2021, 6
+, liquidificador, R$4500,00, 21/07/2021, 6
+Bahia, batedeira, R$6000,00, 21/07/2021, 7
+, fogão, R$2300,00, 07/07/2021, 7
+, micro-ondas, R$4000,00, 21/07/2021, 7
+, liquidificador, R$4500,00, 21/07/2021, 7
+, batedeira, R$6000,00, 21/07/2021, 7
+, geladeira, R$2000,00, 08/08/2021, 7
+, fogão, R$100,00, 10/08/2021, 7
+, panela, R$500,00, 10/09/2021, 7
+, geladeira, R$1000,00, 10/09/2021, 7
+, geladeira, R$1000,00, 21/07/2021, 7  
+, geladeira, R$1000,00, 07/07/2021, 7
+, freezer, R$2000,00, 07/07/2021, 8
+, fogão, R$2300,00, 07/07/2021, 8
+, micro-ondas, R$4000,00, 21/07/2021, 9
+, liquidificador, R$4500,00, 21/07/2021, 9
+, batedeira, R$6000,00, 21/07/2021, 9
